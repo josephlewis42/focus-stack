@@ -1,7 +1,7 @@
 
 .PHONY: build
 build: bin
-	go build -o bin/stack .
+	go build -o bin/focus-stack .
 
 bin:
 	mkdir -p bin

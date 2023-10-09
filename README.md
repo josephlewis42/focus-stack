@@ -19,10 +19,10 @@ https://github.com/josephlewis42/focus-stack/assets/696193/fdf8a2f9-e797-4d44-9a
 Install using `go install`:
 
 ```.sh
-go install github.com/josephlewis42/focus-stack
+go install github.com/josephlewis42/focus-stack@latest
 ```
 
-Or, download the repsitory and use `make`, the binary will be in `./bin/stack`:
+Or, download the repsitory and use `make`, the binary will be in `./bin/focus-stack`:
 
 ```.sh
 make build
