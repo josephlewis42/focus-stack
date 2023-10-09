@@ -1,0 +1,5 @@
+*.prof
+/*.jpg
+/*.png
+/vendor
+/bin
