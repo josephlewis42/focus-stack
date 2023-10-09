@@ -12,8 +12,7 @@ Example, top row is the input and the bottom is the stacked iamge and depth.
 
 Stacked together using [Depthy](https://github.com/panrafal/depthy) it looks like this:
 
-![Example showing images of a leaf with different focal distances and the stacked image.](docs/leaf.mp4)
-
+https://github.com/josephlewis42/focus-stack/assets/696193/fdf8a2f9-e797-4d44-9a52-ab3e9f7b5476
 
 ## Installing
 
